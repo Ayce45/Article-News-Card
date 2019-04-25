@@ -127,6 +127,6 @@ function render() {
   document.getElementsByClassName("column")[0].innerHTML = htmlArticles; //Remplir le HTML
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-  render();
-});
+//document.addEventListener("DOMContentLoaded", () => {
+render();
+//});

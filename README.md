@@ -12,6 +12,10 @@ Ce qui implique donc de compléter la fonction `render` avec la méthode de votr
 #### jQuery autorisé !
 #### Petite précision : le nombre de commentaires affiché ne compte que les commentaires "published"
 
+
+## Capture d'écran
+![Capture d’écran_2019-09-14_14-41-13](https://user-images.githubusercontent.com/32338891/64908243-c0ba1000-d6fd-11e9-9310-c4fbdd688307.png)
+
 ## Auteur
 
 👤 **Ayce**

@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-5-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/ayce_fr">
-    <img alt="Twitter: aycefr" src="https://img.shields.io/twitter/follow/aycefr.svg?style=social" target="_blank" />
+    <img alt="Twitter: aycefr" src="https://img.shields.io/twitter/follow/ayce_fr.svg?style=social" target="_blank" />
   </a>
 </p>
 

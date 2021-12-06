@@ -20,7 +20,7 @@ Ce qui implique donc de compléter la fonction `render` avec la méthode de votr
 
 👤 **Ayce**
 
-* Twitter: [@aycefr](https://twitter.com/aycefr)
+* Twitter: [@ayce_fr](https://twitter.com/ayce_fr)
 * Github: [@ayce45](https://github.com/ayce45)
 * Site: [Ayce](ayce.fr)
 
